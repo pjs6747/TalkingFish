@@ -9,4 +9,4 @@ Big Mouth Billy Bass converted to move mouth according to audio current passing 
 
 #Learning Outcomes
 1. Behavior based on an analog input
-2. 
+2. Adafruit motor library
